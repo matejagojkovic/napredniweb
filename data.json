@@ -1,140 +1,133 @@
 [
     {
         "id":1,
-        "title":"Paris Peace Conference (1919-1920)",
+        "title":"Pariska mirovna konferencija (1919-1920)",
         "date":"Jan 18",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/William_Orpen_%E2%80%93_The_Signing_of_Peace_in_the_Hall_of_Mirrors%2C_Versailles_1919%2C_Ausschnitt.jpg/1920px-William_Orpen_%E2%80%93_The_Signing_of_Peace_in_the_Hall_of_Mirrors%2C_Versailles_1919%2C_Ausschnitt.jpg",
         "text":"Pariška mirovna konferencija bila je formalni sastanak 1919. i 1920. pobedničkih saveznika nakon završetka Prvog svetskog rata radi utvrđivanja mirovnih uslova za poražene Centralne sile. Dominirali su čelnici Britanije, Francuske, Sjedinjenih Država i Italije, a rezultat je pet kontroverznih ugovora koji su preuredili mapu Evrope i delova Azije, Afrike i pacifičkih ostrva i nametnuli novčane kazne. Nemačka i druge nacije koje su izgubile nisu imale glas što je dovelo do političkih negodovanja koje su trajale decenijama."
     },
     {
         "id":2,
-        "title":"Battle of Gettysburg (1863)",
+        "title":"Bitka za Getisburg (1863)",
         "date":"Jul 01",
         "image":"https://cdn.britannica.com/13/913-050-BF67B227/troops-Confederate-objective-progress-mark-Cemetery-Ridge.jpg",
         "text":"Bitku za Gettisburg vodile su snage Unije i Konfederacije od 1. do 3. jula 1863. u gradu Gettisburg u Pensilvaniji tokom američkog građanskog rata. Bitka je uključivala najveći broj žrtava u čitavom ratu i često se opisuje kao prekretnica u ratu zbog odlučne pobede Unije i saglasnosti sa opsadom Vicksburga. Armija Potomaka, general -majora sindikata Georgea Meadea porazila je napade vojske Severne Virdžinije generala Konfederacije Roberta E. Leeja, zaustavivši Leejevu invaziju na sever."
     },
     {
         "id":3,
-        "title":"Tennis Court Oath (1789)",
+        "title":"Teniska zakletva (1789)",
         "date":"Jun 20",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Le_Serment_du_Jeu_de_paume.jpg/1280px-Le_Serment_du_Jeu_de_paume.jpg",
         "text":"Dana 20. juna 1789. članovi francuskog Trećeg staleža položili su zakletvu na teniskom terenu (francuski: Serment du Jeu de Paume) na teniskom terenu koji je izgrađen 1686. godine za upotrebu u Versajskoj palati. Glasanje nije imalo cilj razdvajanja i ponovnog okupljanja kada je to potrebno dok se ne uspostavi Ustav kraljevstva. Bio je to ključni događaj u Francuskoj revoluciji."
     },
     {
         "id":4,
-        "title":"Battle of Sekigahara (1600)",
+        "title":"Bitka kod Sekigahare(1600)",
         "date":"Oct 21",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sekigaharascreen.jpg/1920px-Sekigaharascreen.jpg",
         "text":"Bitka kod Sekigahare bila je odlučujuća bitka 21. oktobra 1600. u današnjoj prefekturi Gifu u Japanu, na kraju perioda Sengoku. Ovu bitku su vodile snage Tokugave Ieiasua protiv koalicije Toiotomi lojalnih klanova, od kojih je nekoliko prebeglo pre ili tokom bitke, što je dovelo do pobede Tokugave. Bitka kod Sekigahare bila je najveća i najvažnija bitka japanske feudalne istorije i dovela je do osnivanja šokunata Tokugava."
     },
     {
         "id":5,
-        "title":"Discovery of America (1492)",
+        "title":"Istraži Ameriku (1492)",
         "date":"Aug 03",
         "image":"https://libcom.org/files/images/history/Indians.jpg",
         "text":"Dana 3. avgusta 1492. godine, italijanski moreplovac Kristofor Kolumbo isplovio je iz luke Palos de la Frontera u provinciji Huelva, iz novoosnovane Kraljevine Kastilje i Aragona, u današnjoj Španiji, koju je finansirala kraljica Izabela Ja iz Kastilje. Kolumbovo pismo o prvom putovanju o njegovom otkriću Bahama, Kube i Hispaniole brzo je proširilo vesti po Evropi. Kolumbo je na svom drugom putovanju ponovo otkrio i istražio veći deo Malih Antila, a zatim otkrio i Trinidad i Tobago na svom trećem putovanju dok je zaobilazio severnu južnoameričku obalu. Četvrto putovanje proveo je skenirajući centralnoameričku obalu. Putovanja Kristofera Kolumba otvorila su Novi svet."
     },
     {
         "id":6,
-        "title":"Martin Luther's 95 Theses (1517)",
+        "title":"Martin Luetera 95 Teza (1517)",
         "date":"Oct 31",
         "image":"https://credomag.com/wp-content/uploads/2020/10/1711_Marty_Reformer_0.jpg",
         "text":"Devedeset pet teza ili rasprava o moći i efikasnosti oprosta je spisak predloga za akademsku raspravu koji je 1517. napisao Martin Luter, profesor moralne teologije na Univerzitetu u Vitenbergu, Nemačka. Retrospektivno se smatra da označava rođenje protestantizma, ovaj dokument unapređuje Luterove stavove protiv onoga što je on video kao zloupotrebu prakse sveštenstva koje prodaje plenarne oproste, za koje se smatralo da potvrde umanjuju vremensku kaznu u čistilištu za grehe koje su počinili kupci ili njihovi voljeni one."
     },
     {
         "id":7,
-        "title":"Viking Raid on Lindisfarne (793)",
+        "title":"Napad Vikinga na Lindisfarne (793)",
         "date":"Jun 08",
         "image":"https://i.pinimg.com/originals/9a/b0/d4/9ab0d45f1694780929f4a83429593996.jpg",
         "text":"793. godine, napad Vikinga na Lindisfarne izazvao je veliko zaprepašćenje na celom hrišćanskom zapadu, pa se sada često uzima kao početak doba Vikinga. Bilo je još nekih racija Vikinga, ali prema engleskom nasleđu ovaj je bio posebno značajan, jer je napao sveto srce nortumbrijskog kraljevstva, oskrnavivši upravo mesto gde je hrišćanska religija nastala u našoj naciji. Tokom napada mnogi monasi su ubijeni, zarobljeni i porobljeni."
     },
     {
         "id":8,
-        "title":"Assassination of Julius Caesar (44 BC)",
+        "title":"Ubistvo Julija Cesara (44 BC)",
         "date":"Mar 15",
         "image":"https://images.immediate.co.uk/production/volatile/sites/7/2021/02/GettyImages_168966912-2735b16-e1614095414474.jpg?quality=90&resize=620,413",
         "text":"Julija Cezara, rimskog diktatora, ubila je grupa senatora na martovskim idama (15. marta) 44. pre Hrista tokom sastanka Senata u Pompejevom teatru u Rimu. Senatori su Cezara uboli 23 puta. Senatori su tvrdili da se ponašaju zbog straha da Cezarova neviđena koncentracija moći tokom njegove diktature potkopava Rimsku republiku, i predstavili su to delo kao čin tiranicida. Najmanje 60 senatora učestvovalo je u zaveri, predvođeni Markom Junijem Brutom, Gajem Kasijem Longinom i Decimom Junijem Brutom. Uprkos Cezarovoj smrti, zaverenici nisu uspeli da obnove republičke institucije. Posljedice atentata dovele su do građanskog rata oslobodilaca i na kraju do perioda Principata Rimskog carstva."
     },
     {
         "id":9,
-        "title":"Gunpowder Plot (1605)",
+        "title":"Zavera baruta (1605)",
         "date":"Nov 05",
         "image":"https://www.historic-uk.com/wp-content/uploads/2017/04/guy-fawkes.jpg",
         "text":"Zavera baruta iz 1605. godine, u ranijim stoljećima često nazivana zavjerom izdaje baruta ili jezuitskom veleizdajom, bila je neuspjeli pokušaj atentata na kralja Jakova I od strane grupe provincijalnih engleskih katolika predvođenih Robertom Catesbijem koji su pokušali vratiti katoličku monarhiju iz Crkve Engleske posle decenija netrpeljivosti prema katolicima. Najpoznatiji zaverenik bio je Gui Favkes, koji je bio zadužen za barut koji je trebalo da se upotrebi u zaveri."
     },
     {
         "id":10,
-        "title":"Battle of Marathon (490 BC)",
+        "title":"Maratonska Bitka (490 BC)",
         "date":"-",
         "image":"https://cdn.britannica.com/88/197788-050-AC2FEC1D/Battle-of-Marathon-relief-Roman-sarcophagus.jpg",
         "text":"Maratonska bitka se dogodila 490. godine pre nove ere tokom prve perzijske invazije na Grčku. Borili su se između građana Atine, uz pomoć Plateje, i persijske sile kojom su komandovali Datis i Artafern. Bitka je bila vrhunac prvog pokušaja Persije, pod kraljem Darijem I, da potčini Grčku. Grčka vojska nanela je težak poraz brojnijim Persijancima, označivši prekretnicu u grčko-persijskim ratovima."
     },
     {
         "id":11,
-        "title":"St. Bartholomew's Day Massacre (1572)",
+        "title":"Masakr na dan Svetog Bartolomeja  (1572)",
         "date":"Aug 24",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg/1920px-La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg",
         "text":"Masakr na dan Svetog Bartolomeja 1572. bio je ciljana grupa atentata i talas nasilja katoličke mafije, uperen protiv hugenota (francuskih kalvinističkih protestanata) tokom francuskih religijskih ratova. Za koji se tradicionalno verovalo da ga je podstakla kraljica Catherine de 'Medici, majka kralja Charlesa IKS, masakr se dogodio nekoliko dana nakon dana venčanja (18. avgusta) kraljeve sestre Margaret sa protestantom Henrikom Navarskim (budući Henrik) IV Francuske). Mnogi od najbogatijih i najistaknutijih hugenota okupili su se u katoličkom Parizu kako bi prisustvovali venčanju."
     },
     {
         "id":12,
-        "title":"Battle of Trafalgar (1805)",
+        "title":"Bitka kod Trafalgara (1805)",
         "date":"Oct 21",
         "image":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Battle_of_Trafalgar%2C_21_October_1805.png",
         "text":"Bitka kod Trafalgara (21. oktobar 1805) bila je pomorski angažman između britanske kraljevske mornarice i kombinovane flote francuske i španske mornarice tokom Rata za treću koaliciju (avgust – decembar 1805) Napoleonovih ratova (1803–1815) . Kao deo Napoleonovih planova za invaziju na Englesku, francuska i španska flota zajedno su preuzele kontrolu nad Lamanšem i obezbedile siguran prolaz Grande Armee. Saveznička flota, pod komandom francuskog admirala Villeneuvea, isplovila je 18. oktobra 1805. iz luke Kadiz na jugu Španije. Naišli su na britansku flotu pod admiralom lordom Nelsonom, nedavno okupljenu da se suoči sa ovom pretnjom, u Atlantskom okeanu duž jugozapadnoj obali Španije, kod rta Trafalgar. Žestoka bitka koja je usledila rezultirala je gubitkom 22 saveznička broda, dok Britanci nisu izgubili nijedan."
     },
     {
         "id":13,
-        "title":"Siege of Dapur (1269 BC)",
+        "title":"Opsada Dapura (1269 BC)",
         "date":"-",
         "image":"https://upload.wikimedia.org/wikipedia/commons/0/01/Ramses_II_besieging_the_Cheta_people_in_Dapur.jpg",
         "text":"Opsada Dapura dogodila se u sklopu kampanje faraona Ramzesa II za suzbijanje Galileje i osvajanje Sirije 1269. pne. Opisao je svoju kampanju na zidu svog mrtvačničkog hrama, Ramesseuma u ​​Tebi, u Egiptu. Natpisi govore da je Dapur bio u zemlji Hatti. Iako se Dapur često identifikuje sa Taborom u Kanaanu, egiptolog Kenneth Kitchen tvrdi da je ta identifikacija netačna i da je u pitanju Dapur u Siriji, severno od Kadeša."
     },
     {
-        "id":14,
-        "title":"Fall of the Western Roman Empire (476)",
-        "date":"Sep 04",
-        "image":"https://cdn.mos.cms.futurecdn.net/6vPQQvFo4XAYfkVdxMoabB.jpg",
-        "text":"By convention, the Western Roman Empire is deemed to have ended on 4 September 476, when Odoacer deposed Romulus Augustulus and proclaimed himself ruler of Italy, but this convention is subject to many qualifications. In Roman constitutional theory, the Empire was still simply united under one emperor, implying no abandonment of territorial claims. In areas where the convulsions of the dying Empire had made organized self-defence legitimate, rump states continued under some form of Roman rule after 476."
-    },
-    {
         "id":15,
-        "title":"Fall of the Eastern Roman Empire (1453)",
+        "title":"Pad istočno rimskog carstva (1453)",
         "date":"May 29",
         "image":"https://orthodoxtimes.com/wp-content/uploads/2021/05/1-81.jpg",
         "text":"Pad Carigrada bio je osvajanje Osmanlijskog carstva glavnog grada Vizantijskog carstva. Grad je pao 29. maja 1453. godine, što je vrhunac opsade od 53 dana koja je počela 6. aprila 1453. Otomanskom vojskom u napadu, koja je znatno nadmašila branitelje Carigrada, komandovao je 21-godišnji sultan Mehmed II, dok je Vizantijsku vojsku je predvodio car Konstantin KSI Palaiologos. Nakon što je osvojio grad, Mehmed II je učinio Carigrad novom osmanskom prestonicom, zamenivši Adrijanopolj."
     },
     {
         "id":16,
-        "title":"Battle of Dungan's Hill (1647)",
+        "title":"Bitka na brdu Dungan's Hill (1647)",
         "date":"Aug 08",
         "image":"https://seamusdubhghaillcom.files.wordpress.com/2017/07/battle-of-rathmines.jpg?w=611",
         "text":"Bitka na brdu Dungan's Hill odigrala se u okrugu Meath, u istočnoj Irskoj, 8. avgusta 1647. Vođena je između vojske Konfederacije Irske i engleskog parlamenta tokom Irskih konfederacijskih ratova. Irska vojska je presretnuta u maršu prema Dublinu i uništena. Iako je to malo poznat događaj, čak i u Irskoj, bitka je bila vrlo krvava (sa preko 3000 smrtnih slučajeva) i imala je važne političke posljedice. Parlamentarna pobeda tamo uništila je vojsku Konfederacije Leinster i doprinela raspadu konfederacijske situacije i osvajanju Irske Kromvelima 1649."
     },
     {
         "id":17,
-        "title":"Execution of William Wallace (1305)",
+        "title":"Pogubljenje William Wallace (1305)",
         "date":"Aug 23",
         "image":"https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Trial_of_William_Wallace_at_Westminster.jpg",
         "text":"Villiam Vallace je izbegao zarobljavanje od strane Engleza sve do 5. avgusta 1305. kada je John de Menteith, škotski vitez odan Edvardu, predao Vallacea engleskim vojnicima u Robroistonu kod Glasgova. Nakon suđenja, 23. avgusta 1305. godine, Vallace je iz hola odveden u londonski Tover, zatim se svukao do gola i odvukao kroz grad za petama konja do Elmova u Smithfieldu. Obešen je, izvučen i raščetvoren."
     },
     {
         "id":18,
-        "title":"Henry David Thoreau publishes Walden (1854)",
+        "title":"Henry David Thoreau izdao Walden (1854)",
         "date":"Aug 09",
         "image":"https://gov-civ-guarda.pt/img/literature/19/walden.jpg",
         "text":"Valden, prvi put objavljen 1854. kao Valden; ili, Život u šumi, knjiga je američkog transcendentalističkog pisca Henrija Dejvida Torea. Tekst je odraz jednostavnog življenja u prirodnom okruženju. Delo je deo lične deklaracije nezavisnosti, društvenog eksperimenta, putovanja duhovnog otkrića, satire i-donekle-priručnika za oslanjanje na sebe. Valden opisuje Thoreauova iskustva tokom dve godine, dva meseca i dva dana u kolibi koju je sagradio u blizini Valden Ponda usred šume čiji je vlasnik njegov prijatelj i mentor Ralph Valdo Emerson, u blizini Concord -a, Massachusetts."
     },
     {
         "id":19,
-        "title":"Restoration of the Jesuits (1814)",
+        "title":"Obnova Jesuits-a (1814)",
         "date":"Aug 07",
         "image":"https://franciscambveiga.files.wordpress.com/2020/11/restauracao-da-companhia-de-jesus-em-1814..png?w=844",
         "text":"Kako su se Napoleonovi ratovi bližili kraju 1814. godine, stari politički poredak Evrope je u značajnoj mjeri obnovljen na Bečkom kongresu nakon godina borbi i revolucije, tokom kojih je Crkva progonjena kao agent starog poretka i zloupotrebljavali pod vlašću Napoleona. S promjenom političke klime u Evropi i s moćnim monarhima koji su pozivali na suzbijanje Društva koje više nije bilo na vlasti, papa Pio VII izdao je naredbu o obnovi Družbe Isusove u katoličkim zemljama Evrope. Sa svoje strane, Društvo Isusovo je donijelo odluku na prvoj općoj kongregaciji koja je održana nakon obnove da zadrži organizaciju Društva onakvu kakva je bila prije nego što je naređeno potiskivanje 1773. godine."
     },
     {
         "id":20,
-        "title":"Death of Napoleon (1821)",
+        "title":"Smrt Napoleona (1821)",
         "date":"May 05",
         "image":"https://i.guim.co.uk/img/media/895be3533e2a5fd074692788383df1cbc622e7db/0_107_8192_4918/master/8192.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=fd4c8749bbee321546cfd9184e65245b",
         "text":"Tokom poslednjih nekoliko godina svog života, Napoleon se mesecima uzastopno ograničavao u svom vlažnom, plijesni zaraženom i bijednom prebivalištu Longvood. U februaru 1821. Napoleonovo zdravlje počelo je brzo da se pogoršava, pa se pomirio sa Katoličkom crkvom. Umro je 5. maja 1821. u Longvood Houseu u 51. godini, nakon što je posljednje priznanje, Ektreme Unction i Viaticum dao u prisustvu oca Ange Vignalija sa samrtničke postelje. Njegove poslednje reči bile su: Francuska, l'armee, tete d'armee, Josephine (Francuska, vojska, šef vojske, Josephine)."
